@@ -145,6 +145,6 @@ elif section == "Alternative Churn Prediction":
 
 
 # Writing the merged code to a new file to simplify further operations if needed.
-# output_path = "/mnt/data/main_app.py"
+output_path = "/mnt/data/main_app.py"
 
-# output_path
+output_path
